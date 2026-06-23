@@ -195,6 +195,26 @@ The Streamlit web application includes the following tabs:
 
 ---
 
+## Dashboard Preview
+
+### Overview Dashboard
+<img width="1470" height="956" alt="dashboard_home" src="https://github.com/user-attachments/assets/532b5bc9-a639-44c8-ae22-6ecab8ea0ed4" />
+
+
+### Market Analysis
+<img width="1470" height="956" alt="market_analysis" src="https://github.com/user-attachments/assets/f8f27b8b-2ee9-4c3d-8def-8ec2fc0e062b" />
+
+
+### Skill Analysis
+<img width="1470" height="956" alt="skill_analysis" src="https://github.com/user-attachments/assets/03a50b98-8f16-42bd-8a2b-0b7c87277860" />
+
+
+### Hiring Trends
+<img width="1470" height="956" alt="job_trends" src="https://github.com/user-attachments/assets/dc98ea75-d622-410d-a8f4-e91006a7253b" />
+
+
+---
+
 ## 📊 Analytics Questions Answered & SQL Views
 
 We created OLAP views to support business analytics (defined in `database/schema_olap_views.sql`):
