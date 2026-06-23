@@ -102,8 +102,6 @@ We built an automated data ingestion pipeline that extracts raw job metadata, no
 placement-market-intelligence/
 ├── README.md                           # Portfolio-grade documentation
 ├── requirements.txt                    # Project dependencies
-├── PROJECT_INTERVIEW_GUIDE.md          # Technical prep manual for job loops
-├── RESUME_BULLETS.md                   # Tailored resume bullets (ATS/Impact variations)
 ├── PROJECT_SUMMARY.md                  # Executive recruiter-friendly summary
 ├── database/
 │   ├── schema_oltp.sql                 # MySQL relational core table creation
