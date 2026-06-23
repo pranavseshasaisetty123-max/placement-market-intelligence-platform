@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# Local Database Cache
+*.db
+local_cache.db
+
+# Logs
+*.log
+
+# Personal Placement Files
+PROJECT_INTERVIEW_GUIDE.md
+RESUME_BULLETS.md
