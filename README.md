@@ -81,6 +81,31 @@ For freshers and placement cells, navigating the job market is highly fragmented
 We built an automated data ingestion pipeline that extracts raw job metadata, normalizes currencies and frequencies into standardized annual INR values, deduplicates items across systems, extracts software skills via precompiled regular expressions, structures them into an OLAP database, and exposes insights through a Streamlit dashboard.
 
 ---
+## Business Impact
+
+This platform transforms fragmented job listings into actionable career intelligence for students, placement cells, and job seekers.
+
+### Key Outcomes
+
+- Consolidated 491 real job postings from multiple sources into a centralized analytics platform.
+- Analyzed hiring activity across 361 companies and 158 geographic locations.
+- Measured skill demand trends to identify the most frequently requested technologies and tools.
+- Calculated salary benchmarks and premium skills using standardized annual compensation estimates.
+- Identified fresher-friendly opportunities through the Fresher Accessibility Ratio (FAR).
+- Reduced manual job-market research by providing a single dashboard for hiring trends, location analysis, skill demand, and salary insights.
+
+### Business Value
+
+The platform enables data-driven career planning by helping users:
+
+- Prioritize high-demand skills.
+- Target companies actively hiring.
+- Compare opportunities across locations.
+- Understand salary expectations.
+- Make informed placement and upskilling decisions.
+
+---
+
 
 ## 🛠️ Tech Stack
 
