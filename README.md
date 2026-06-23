@@ -5,7 +5,18 @@ A production-ready Data Engineering & Analytics portfolio platform designed to a
 This platform showcases modular Python ETL design, dual SQLite/MySQL schema compatibility, custom web scraping, and NLP-based tech-skill extraction, exposing visual insights through an interactive Streamlit application.
 
 ---
+## Key Project Metrics
 
+- 491 Real Job Postings Analyzed
+- 361 Hiring Companies
+- 158 Geographic Locations
+- 27 Skills Catalogued
+- 364 Job-Skill Relationships
+- ₹784,621 Average Annual Salary
+- 24.64% Fresher Accessibility Ratio
+
+
+---
 ## 🏗️ System Architecture
 
 The platform separates ingestion bottlenecks from analytical transformations by utilizing a multi-layered data architecture (Bronze -> Silver -> Gold):
